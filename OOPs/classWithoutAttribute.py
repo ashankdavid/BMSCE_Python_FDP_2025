@@ -1,3 +1,4 @@
+# Classes Without Attributes or Constructor
 class Hello:
     def printHello(self):
         print("Hello BMS")
